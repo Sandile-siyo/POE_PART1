@@ -13,7 +13,6 @@ This project combines multimedia features (audio + ASCII art) with an interactiv
   - Greets the user with a personalized welcome message.
   - Provides cybersecurity tips and awareness through natural conversation.
 - **Cybersecurity Topics Covered**:
-  - Password safety
   - Phishing awareness
   - Safe browsing practices
   - Malware protection
